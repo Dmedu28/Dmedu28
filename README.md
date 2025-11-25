@@ -23,12 +23,12 @@ A collection of the tools, languages, and technologies I use in my projects.
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Dmedu28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Dmedu28&show_icons=true&theme=tokyonight&include_all_commits=true"
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmedu28&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmedu28&layout=compact&theme=tokyonight" 
   />
 </p>
 <!--
